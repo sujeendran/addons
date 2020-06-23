@@ -18,7 +18,7 @@ For detailed documentation refer to original repo: https://github.com/tensorflow
 
 #### Quick Start
 ```
-git clone https://github.com/sujeendran/addons.git
+git clone https://github.com/sujeendran/tensorflow-addons.git
 cd addons
 
 pip install artifacts/tensorflow_addons-*.whl
@@ -32,7 +32,7 @@ If you have jetson_stats installed, you can use sudo jtop and enable the extra s
 
 ##### GPU and CPU Custom Ops
 ```
-git clone https://github.com/sujeendran/addons.git
+git clone https://github.com/sujeendran/tensorflow-addons.git
 cd addons
 
 export TF_NEED_CUDA="1"
