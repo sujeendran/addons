@@ -10,6 +10,12 @@
 [![Gitter chat](https://img.shields.io/badge/chat-on%20gitter-46bc99.svg)](https://gitter.im/tensorflow/sig-addons)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+## Fork made for NVIDIA Jetson Nano Jetpack 4.4 
+
+This fork has changes made to build tensorflow-addons for Tensorflow 2.1 Jetson Nano build provided by NVIDIA.
+The wheel file for direct installation is also provided.
+
+
 ### Continuous Build Status
 
 | Build      | Status |
