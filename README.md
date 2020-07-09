@@ -12,7 +12,7 @@
 
 ## Fork made for NVIDIA Jetson Nano Jetpack 4.4 
 
-This fork has changes made to build tensorflow-addons for Tensorflow 2.1.0+nv20.4 Jetson Nano build provided by NVIDIA.
+This fork has changes made to build tensorflow-addons for Tensorflow 2.3 Jetson Nano built from source. Should work with >=TF2.2. Does not work with NVIDIA provided Tensorflow 2.1 build since a lot of API calls seems to be changed.
 
 For detailed documentation refer to original repo: https://github.com/tensorflow/addons
 
